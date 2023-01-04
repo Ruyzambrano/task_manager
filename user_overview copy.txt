@@ -1,0 +1,58 @@
+
+            Total number of users:          5
+            
+
+                ------- admin -------
+                        
+                Number of tasks assigned:                       2
+
+                Percent of total tasks assigned:                28.57%
+                Percent tasks completed:                        100.0%
+                Percent tasks incomplete:                       0.0%
+                Percent tasks overdue:                          100.0%
+
+                
+
+                ------- Ruy -------
+                        
+                Number of tasks assigned:                       3
+
+                Percent of total tasks assigned:                42.86%
+                Percent tasks completed:                        66.67%
+                Percent tasks incomplete:                       33.33%
+                Percent tasks overdue:                          100.0%
+
+                
+
+                ------- ruy -------
+                        
+                Number of tasks assigned:                       1
+
+                Percent of total tasks assigned:                14.29%
+                Percent tasks completed:                        0.0%
+                Percent tasks incomplete:                       100.0%
+                Percent tasks overdue:                          0.0%
+
+                
+
+                ------- rui -------
+                        
+                Number of tasks assigned:                       1
+
+                Percent of total tasks assigned:                14.29%
+                Percent tasks completed:                        0.0%
+                Percent tasks incomplete:                       100.0%
+                Percent tasks overdue:                          0.0%
+
+                
+
+                ------- ham -------
+                        
+                Number of tasks assigned:                       0
+
+                Percent of total tasks assigned:                0%
+                Percent tasks completed:                        100%
+                Percent tasks incomplete:                       0%
+                Percent tasks overdue:                          0%
+
+                
