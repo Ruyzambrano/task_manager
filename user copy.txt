@@ -1,5 +1,1 @@
 admin, adm1n
-Ruy, Ruy
-ruy, ruy
-rui, rui
-ham, ham
